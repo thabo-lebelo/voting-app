@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: redis
   labels:
-    name: redi-servive
+    name: redis-servive
     app: demo-voting-app
 spec:
   ports:
